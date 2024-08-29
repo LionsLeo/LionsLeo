@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LionsLeo
+- 👋 Hi, I’m Meet Gada
 - 👀 I’m interested in UI/UX designing
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
